@@ -1,4 +1,4 @@
-package Vista;
+/*package Vista;
 
 import Controlador.TiendaCalzado;
 import Modelo.*;
@@ -22,13 +22,13 @@ public class Pruebas {
 
 
 
-        /*System.out.println("El stock es " + producto.getStock());
+        System.out.println("El stock es " + producto.getStock());
         System.out.println("El valor del impuesto especifico es " + mujer.impuestoEspecifico());
         System.out.println("El valor de venta es " + mujer.valorVenta());
         System.out.println("El valor del IVA es " + mujer.impuestoIva());
         System.out.println("El descuento por altura de taco es " + mujer.descuento());
         System.out.println("El total a pagar es " + mujer.totalPagar());
-        System.out.println("El nuevo stock es " + mujer.getProducto().getStock());*/
+        System.out.println("El nuevo stock es " + mujer.getProducto().getStock());
 
         TiendaCalzado tienda = new TiendaCalzado(new ArrayList<>());
 
@@ -46,3 +46,4 @@ public class Pruebas {
 
     }
 }
+*/
